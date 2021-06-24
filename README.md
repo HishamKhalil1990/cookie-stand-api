@@ -1,5 +1,9 @@
 # api-quick-start
 
+## running server  (https://cookie-stand-api-hisham.herokuapp.com/)
+## running clients (heroku)
+## [PR](https://github.com/HishamKhalil1990/cookie-stand-api/pull/1)
+
 Template Project for starting up CRUD API with Django Rest Framework
 
 ## Customization Steps
