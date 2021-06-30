@@ -7,6 +7,7 @@ class CookieStandSerializer(serializers.ModelSerializer):
         model = CookieStand
         fields = (
             'id',
+            'location',
             'owner',
             'description',
             'hourly_sales',
